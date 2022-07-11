@@ -11,6 +11,7 @@
 
 ## install
 ```python3
+$ rm -rf Cr4ck
 $ pkg install python
 $ pkg install nano
 $ pkg install git
