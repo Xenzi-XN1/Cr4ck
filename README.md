@@ -33,7 +33,7 @@ $ python Cr4ck.py
 ```json
 Info_Script = {
     "leagues": "python 3.10.5",
-    "login": "Token EAAB",
+    "login": "Cookie",
     "dump": "Daftar teman Publik"
 }
 ```
